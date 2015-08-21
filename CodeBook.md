@@ -8,9 +8,9 @@ List of variables name inside Dataset
 ------------------------------
 
 
-Variable name    | Description
+Variable name    | 
+-----------------|
 
------------------|------------
 "activity"| 
 
 "subject"|
